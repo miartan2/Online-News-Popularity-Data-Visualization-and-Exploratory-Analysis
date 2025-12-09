@@ -38,4 +38,4 @@ Open the HTML file (`Features-of-Online-News-Popularity.html`).
 For interactive Shiny components, visit:
 - https://miartan.shinyapps.io/stat3280app/
 - https://miartan.shinyapps.io/stat3280app2/
-- https://miartan.shinyapps.io/stat3280app3/
+- https://miartan.shinyapps.io/stat3280app3/ (animation and static plot may take a second to load)
