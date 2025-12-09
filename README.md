@@ -34,6 +34,7 @@ Fernandes, K., Vinagre, P., & Cortez, P. (2015). A Proactive Intelligent Decisio
 
 # Viewing the Project
 Open the HTML file (`Features-of-Online-News-Popularity.html`).
+
 For interactive Shiny components, visit:
 - https://miartan.shinyapps.io/stat3280app/
 - https://miartan.shinyapps.io/stat3280app2/
